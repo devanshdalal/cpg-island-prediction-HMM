@@ -40,8 +40,17 @@ The max-product VE and Viterbi both necessarily calculates the same result i.e. 
 4. Push to the branch: 	`git push origin my-new-feature`
 5. Submit a pull request :)
 
+
+## Viterbi Algorithm Visualization
+
+----------------
+![image](https://cloud.githubusercontent.com/assets/5080310/13754012/72248180-ea3b-11e5-922b-506d94b6f554.png)
+
+
 ### References
 
 1. http://www.cse.iitd.ac.in/~parags/teaching/col776/assignments/ass1-b/ass2-b.pdf
 
 2. https://en.wikipedia.org/wiki/Viterbi_algorithm
+
+
