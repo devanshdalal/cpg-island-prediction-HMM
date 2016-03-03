@@ -32,6 +32,14 @@ where n is the length of the sequence and S is the set of all possible states. S
 The max-product VE and Viterbi both necessarily calculates the same result i.e. most-probable cumulative assignment of variables over the given Markov network. The max-product VE is more general as compared to the Viterbi algorithm applied here on the linear chain. But they calculates the same inference.
 
 
+## Contributing
+
+1. Fork it!
+2. Create your branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -m 'Added Some featues'``
+4. Push to the branch: 	`git push origin my-new-feature`
+5. Submit a pull request :)
+
 ### References
 
 1. http://www.cse.iitd.ac.in/~parags/teaching/col776/assignments/ass1-b/ass2-b.pdf
