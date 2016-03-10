@@ -5,7 +5,7 @@ Note: All the code is mainly implemented in Python.
 
 ### Finding CPGs islands in the sequence
 
-Commands :  python 2b.py <path to the testing file>
+Commands :  python 2b.py [path to the testing file] <br>
 Where path to the training data is assumed to be  ../gene_data/  .
 
 Viterbi Algorithm:
@@ -17,7 +17,7 @@ For test data the log of probability of most likely state was found to be
 
 ### Time complexity: 
 
-The transition, emission and initial probabilities are computed as mentioned in the assignment and Viterbi algorithm is implemented for calculating the most likely states of the hidden sequence.
+The transition, emission and initial probabilities are computed as mentioned in the assignment and Viterbi algorithm is implemented for calculating the most likely states of the hidden sequence.<br>
 
 where n is the length of the sequence and S is the set of all possible states. Since we have |S|=8 for all indexes of the sequence. Therefore final complexity will be.
 
