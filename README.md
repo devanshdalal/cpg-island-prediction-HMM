@@ -1,8 +1,6 @@
 ## Viterbi Algorithm
 
-Devansh Dalal
-Report of Assignment 2(b)
-­­­­­
+Devansh Dalal <br>
 Note: All the code is mainly implemented in Python. 
 
 ### Finding CPGs islands in the sequence
