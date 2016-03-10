@@ -18,15 +18,18 @@ For test data the log of probability of most likely state was found to be
 
 
 Time complexity: 
-	The transition, emission and initial probabilities are computed as mentioned in the assignment and Viterbi algorithm is implemented for calculating the most likely states of the hidden sequence.
+
+The transition, emission and initial probabilities are computed as mentioned in the assignment and Viterbi algorithm is implemented for calculating the most likely states of the hidden sequence.
 
 where n is the length of the sequence and S is the set of all possible states. Since we have |S|=8 for all indexes of the sequence. Therefore final complexity will be.
 
 Q2 Connection between Max-product VE and Viterbi
 
-	The max-product VE and Viterbi both necessarily calculates the same result i.e. most-probable cumulative assignment of variables over the given Markov network. The max-product VE is more general as compared to the Viterbi algorithm applied here on the linear chain. But they calculates the same inference.
+The max-product VE and Viterbi both necessarily calculates the same result i.e. most-probable cumulative assignment of variables over the given Markov network. The max-product VE is more general as compared to the Viterbi algorithm applied here on the linear chain. But they calculates the same inference.
 
 
 References
+
 1. http://www.cse.iitd.ac.in/~parags/teaching/col776/assignments/ass1-b/ass2-b.pdf
+
 2. https://en.wikipedia.org/wiki/Viterbi_algorithm
